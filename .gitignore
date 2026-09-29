@@ -1,2 +1,0 @@
-# Ignore large combined PDF in root directory (GitHub recommend files < 50MB)
-/*.pdf
